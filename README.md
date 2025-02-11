@@ -9,6 +9,7 @@ Suppose we have three types of characters in a GameApp:
 3. **Archer**: Shoots arrows; uses dodge to to defend
 
 Implement two types of Strategy:
+
 A.  DefenseStrategy
 
      1. Shield
@@ -23,6 +24,9 @@ B.  AttackStrategy
      3.  SwingSword  
 
 ## UML DIAGRAM
+![LAB 1 _ STRATEGY PATTERN_LACORTE ](https://github.com/user-attachments/assets/fef09b8c-142f-40de-9c19-e21262530181)
+
+
 
 
 
